@@ -1,0 +1,29 @@
+.lay{
+    padding: 20px;
+    margin: auto;
+}
+.custom-card {
+    background-color: rgb(112, 112, 112);
+    border-radius: 20px;
+    color: aliceblue;
+} 
+.custom-card-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%; /* Adjust the height as needed */
+  }
+  
+  .custom-card-image {
+    width: 50%;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+  }
+.giveMargin{
+    margin: 5px;
+}  
+
+.layCard{
+    margin-bottom: 20px;
+}
