@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.2eaf115e.css",
+    "main.js": "/PersonalWebsite/static/js/main.69e1f00d.js",
+    "static/js/787.be9df7c6.chunk.js": "/PersonalWebsite/static/js/787.be9df7c6.chunk.js",
+    "static/media/Jarvis.gif": "/PersonalWebsite/static/media/Jarvis.659181fab641e5442985.gif",
+    "static/media/about.jpg": "/PersonalWebsite/static/media/about.6a706c1ce78e4e0caf24.jpg",
+    "static/media/Kakashi.gif": "/PersonalWebsite/static/media/Kakashi.9bbe7285d53c8eb6a258.gif",
+    "static/media/Cricket.gif": "/PersonalWebsite/static/media/Cricket.f11fd939327c98d1502e.gif",
+    "static/media/aws-coursera.png": "/PersonalWebsite/static/media/aws-coursera.68c51a118acf7ea99893.png",
+    "static/media/profile.jpg": "/PersonalWebsite/static/media/profile.74d8ffea8c3d3a2470a2.jpg",
+    "static/media/Linkedin.jpeg": "/PersonalWebsite/static/media/Linkedin.1ce902673de2d581873f.jpeg",
+    "static/media/MicController.png": "/PersonalWebsite/static/media/MicController.5f0c690467270dbe9ba4.png",
+    "static/media/Quiz.gif": "/PersonalWebsite/static/media/Quiz.c9e0be8dc25aacd89b30.gif",
+    "static/media/BuggyLuffy.gif": "/PersonalWebsite/static/media/BuggyLuffy.68e8f206614946e16a4f.gif",
+    "static/media/ORACLE-OCI.png": "/PersonalWebsite/static/media/ORACLE-OCI.d9ac9c25c9a83f96a635.png",
+    "static/media/AWS-FOUNDATION.png": "/PersonalWebsite/static/media/AWS-FOUNDATION.204b0568a3a8c0fc9608.png",
+    "static/media/FCC-WEB-DESIGN.png": "/PersonalWebsite/static/media/FCC-WEB-DESIGN.21b2d2f2eb385ce15111.png",
+    "index.html": "/PersonalWebsite/index.html",
+    "main.2eaf115e.css.map": "/PersonalWebsite/static/css/main.2eaf115e.css.map",
+    "main.69e1f00d.js.map": "/PersonalWebsite/static/js/main.69e1f00d.js.map",
+    "787.be9df7c6.chunk.js.map": "/PersonalWebsite/static/js/787.be9df7c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eaf115e.css",
+    "static/js/main.69e1f00d.js"
+  ]
+}
